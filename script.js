@@ -62,7 +62,7 @@ function showRandomQuote() {
     sessionStorage.setItem('lastQuoteIndex', randomIndex);
 }
 
-// --- Populate Categories (required) ---
+// Add this!!!!!!!!!!!
 function populateCategories() {
     const currentSelection = categoryFilter.value;
 
